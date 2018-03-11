@@ -1,9 +1,5 @@
 #include <stdio.h>
-
-struct graph_t{
-
-};
-
+#include "datastructure.h"
 
 int main() {
     printf("Hello, World!\n");
