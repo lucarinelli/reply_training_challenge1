@@ -7,6 +7,6 @@
 
 #include "datastructure.h"
 
-path_t *solve(field_t intervals_graphs);
+path_t* solve(field_t* field);
 
 #endif //REPLY_TRAINING_CHALLENGE1_SOLVE_H
